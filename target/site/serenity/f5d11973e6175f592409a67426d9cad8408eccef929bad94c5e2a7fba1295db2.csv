@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Payment transfer request scenarios for amount less than 1.000.000 euro, meeting transaction limit criteria.","Payment transfer request for amount less than 1.000.000 euro is completed successfully","SUCCESS","2020-12-19T01:35:18.017+01:00[Europe/Berlin]","0.0","0.65"

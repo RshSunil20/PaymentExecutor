@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Payment transfer request rejection for the amount which is missing transaction input criteria.","Payment transfer request for invalid amount and amount greater than or equal to 1,000,000 euro is rejected","PENDING","2020-12-19T01:35:18.777+01:00[Europe/Berlin]","0.0","2.71"
+"Any system fails to rollback the Transaction status should rollback the transaction to maintain tx consistency.","Payment transfer request is rolleded back when SystemB fails to respond for debit request after account credit.","PENDING","2020-12-19T01:35:21.496+01:00[Europe/Berlin]","0.0","0.02"
+"Any system fails to rollback the Transaction status should rollback the transaction to maintain tx consistency.","Payment transfer request is rolleded back when Payment Executor database update fails.","PENDING","2020-12-19T01:35:21.525+01:00[Europe/Berlin]","0.0","0.03"
